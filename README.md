@@ -1,2 +1,2 @@
 # external-css
-style sheets in css
+# this is my first css repository
